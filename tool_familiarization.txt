@@ -1,0 +1,16 @@
+Tool Familiarization
+
+1. Wireshark
+Packet capture tool.
+
+2. Nmap
+Network scanning tool.
+
+3. Metasploit
+Penetration testing framework.
+
+4. Burp Suite
+Web application proxy.
+
+5. Netcat
+Network debugging tool.
