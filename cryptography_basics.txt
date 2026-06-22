@@ -1,0 +1,23 @@
+Symmetric Encryption
+Uses same key.
+
+AES
+Advanced Encryption Standard.
+
+Asymmetric Encryption
+Uses public and private keys.
+
+RSA
+Popular asymmetric algorithm.
+
+Hashing
+One-way process.
+
+MD5
+128-bit algorithm.
+
+SHA256
+256-bit algorithm.
+
+SSL/TLS
+Secure communication protocol.
