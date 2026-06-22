@@ -1,0 +1,30 @@
+Linux Fundamentals
+
+1. File System Navigation
+- pwd
+- ls
+- cd
+
+2. File Operations
+- touch
+- mv
+- rm
+- mkdir
+- rmdir
+
+3. File Permissions
+- chmod 777
+- chmod 644
+- chmod 755
+
+4. Package Management
+- sudo apt update
+- sudo apt upgrade
+- dpkg --list
+
+5. Networking Commands
+- ifconfig
+- ip a
+- ping
+- netstat
+- traceroute
